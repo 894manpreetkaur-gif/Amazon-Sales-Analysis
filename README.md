@@ -1,2 +1,61 @@
-# Amazon-Sales-Analysis
-Data Analysis and Visualization of Amazon Sales Dataset using Python, Pandas, Matplotlib, Seaborn and Streamlit.
+# 📊 Amazon Sales Analysis Dashboard
+
+## 📌 Project Overview
+
+This project analyzes Amazon sales data using Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, and Streamlit. The dashboard provides insights into sales performance, customer behavior, product categories, and business trends through interactive visualizations.
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Plotly
+- Streamlit
+
+---
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home](Images/home.png)
+
+### 📋 Dataset Overview
+
+![Dataset Overview](Images/DatasetOverview.png)
+
+### 📈 KPI Dashboard
+
+![KPI Dashboard](Images/KPI-Dashboard.png)
+
+### 📊 Dashboard
+
+![Dashboard](Images/Dashboards.png)
+
+### 📉 Visualizations
+
+![Visualizations](Images/Vizualizations.png)
+
+---
+
+## 🚀 How to Run the Project
+
+```bash
+pip install -r requirements.txt
+streamlit run home.py
+```
+
+---
+
+## 🎯 Key Features
+
+- Dataset Exploration
+- Data Preprocessing
+- KPI Dashboard
+- Interactive Visualizations
+- Business Insights
+- Streamlit Web Application
