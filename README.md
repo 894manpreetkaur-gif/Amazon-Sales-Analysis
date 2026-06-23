@@ -38,7 +38,7 @@ This project analyzes Amazon sales data using Python, Pandas, NumPy, Matplotlib,
 
 ### 📉 Visualizations
 
-![Visualizations](Vizualizations.png)
+![Visualizations](Visualizations.png)
 
 ---
 
