@@ -8,13 +8,13 @@ This project analyzes Amazon sales data using Python, Pandas, NumPy, Matplotlib,
 
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
-- Streamlit
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Plotly
+* Streamlit
 
 ---
 
@@ -53,9 +53,9 @@ streamlit run home.py
 
 ## 🎯 Key Features
 
-- Dataset Exploration
-- Data Preprocessing
-- KPI Dashboard
-- Interactive Visualizations
-- Business Insights
-- Streamlit Web Application
+* Dataset Exploration
+* Data Cleaning and Preprocessing
+* KPI Dashboard
+* Interactive Visualizations
+* Business Insights
+* Streamlit Web Application
