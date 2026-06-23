@@ -22,11 +22,11 @@ This project analyzes Amazon sales data using Python, Pandas, NumPy, Matplotlib,
 
 ### 🏠 Home Page
 
-![Home](Images/home.png)
+![Home](home.png)
 
 ### 📋 Dataset Overview
 
-![Dataset Overview](Images/DatasetOverview.png)
+![Dataset Overview](DatasetOverview.png)
 
 ### 📈 KPI Dashboard
 
