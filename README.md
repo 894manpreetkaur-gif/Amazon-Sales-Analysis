@@ -30,15 +30,15 @@ This project analyzes Amazon sales data using Python, Pandas, NumPy, Matplotlib,
 
 ### 📈 KPI Dashboard
 
-![KPI Dashboard](Images/KPI-Dashboard.png)
+![KPI Dashboard](KPI-Dashboard.png)
 
 ### 📊 Dashboard
 
-![Dashboard](Images/Dashboards.png)
+![Dashboard](Dashboards.png)
 
 ### 📉 Visualizations
 
-![Visualizations](Images/Vizualizations.png)
+![Visualizations](Vizualizations.png)
 
 ---
 
